@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 "French guyana"
 26 May 1966
 that's our presentation
-my_points = night.upcase
+night
