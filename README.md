@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
  aiden geary and jacob howren 
 "French guyana"
 26 May 1966
-that's our presidtaion
+that's our presentation
